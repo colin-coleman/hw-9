@@ -23,3 +23,9 @@ width: 200px;
 .two{
 padding: 10px 15px;
 }
+
+.three{
+/*border-radius: 50%; using a percentage for a highly rounded shape */
+border-radius: 10px; /* using pixels for subtle rounding of corners */
+  
+}
